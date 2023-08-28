@@ -116,6 +116,7 @@ body {
 }
 
 #mobileNav {
+    width: 100%;
     display: none;
     height: 100vh;
     background-color: #444444;
@@ -123,7 +124,7 @@ body {
 }
 
 .mobile-nav-wrapper {
-    width: 80%;
+    width: 90%;
     height: 80%;
     margin: auto;
     display: flex;
@@ -140,7 +141,7 @@ body {
 
 .menu-mobile li {
     list-style-type: none;
-    font-size: 35px;
+    font-size: 25px;
     border-bottom: 1px solid #ffffff;
     width: 60%;
     margin: auto;
@@ -151,9 +152,11 @@ body {
     text-decoration: none;
     text-transform: uppercase;
     color: #ffffff;
-    font-size: 25px;
+    font-size: 20px;
     padding: 5px;
 }
+
+
 
 /* Mobile Nav Bar End */
 
