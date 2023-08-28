@@ -261,6 +261,10 @@ body {
     display: flex;
 }
 
+.abt{
+    padding: 0 10px;
+}
+
 .about-us-grid a {
     color: #202020;
     font-size: 14px;
@@ -594,7 +598,7 @@ body {
 /* Footer End */
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
 
     .section-title {
         font-size: 25px;
@@ -803,7 +807,7 @@ body {
 }
 
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 768px) {
 
     .section-title {
         font-size: 20px;
@@ -886,6 +890,11 @@ body {
     .about-us-para {
         padding: 10px 0;
     }
+
+    .about-us-para {
+        padding: 0 10px;
+    }
+
 
     /* About Us End */
 
