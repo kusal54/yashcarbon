@@ -482,6 +482,7 @@ body {
     padding: 18px;
     border-radius: 10px;
     text-transform: uppercase;
+    font-size: 16px;
 }
 
 .gallery-left a:hover {
@@ -759,7 +760,9 @@ body {
         text-decoration: none;
         padding: 16px;
         border-radius: 10px;
+        font-size: 14px;
     }
+
 
     /* Gallery End */
 
@@ -1002,7 +1005,9 @@ body {
         text-decoration: none;
         padding: 16px;
         border-radius: 10px;
+        font-size: 12px;
     }
+
     /* Gallery End */
 
 
