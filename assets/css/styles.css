@@ -615,7 +615,9 @@ body {
 
 
     /* Hero Section Start */
-
+    .hero-title-wrapper {
+        padding-top: 35vh;
+    }
     /* Hero Section End */
 
 
@@ -648,6 +650,10 @@ body {
         background-image: url("../img/about_img.jfif");
         background-position: center;
         background-size: cover;
+    }
+
+    .about-us-para {
+        padding: 0 10px;
     }
 
     /* About Us End */
@@ -813,23 +819,27 @@ body {
     /* Hero Section Start */
 
     .main-title {
-        font-size: 50px;
+        font-size: 35px;
     }
 
     .sub-title {
-        font-size: 20px;
+        font-size: 16px;
 
     }
 
     .hero-pra {
         color: #ffffff;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 400;
         text-align: center;
         width: 60%;
         margin: auto;
         padding: 20px 0;
         padding-bottom: 50px;
+    }
+
+    .hero-title-wrapper {
+        padding-top: 30vh;
     }
 
     .hero-title-wrapper a {
@@ -871,6 +881,10 @@ body {
         height: 200px;
         margin-top: -40px;
         margin-bottom: 20px;
+    }
+
+    .about-us-para {
+        padding: 10px 0;
     }
 
     /* About Us End */
